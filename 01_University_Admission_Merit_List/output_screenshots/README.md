@@ -1,0 +1,1 @@
+Save genuine screenshots of the program running in the VS Code terminal in this folder. No screenshot is included yet.
