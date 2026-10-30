@@ -1,28 +1,27 @@
 # Python Activity-Based Learning (ABL)
 
-This repository contains the Python ABL assignment projects for first-year B.Tech CSE students.
+First-year B.Tech CSE Python ABL projects. Each case study is stored in its own folder.
 
-## Important note about case-study selection
-The ten programs listed below are the initial suggested set. They are **provisional** until they are checked against the faculty-provided list of 100 case studies. The assignment circular asks students to select ten difficult-level case studies from that official list. Replace or revise any program that is not on the official list or does not match the complete prescribed syllabus.
+## Project folders
+1. [University Admission Merit List](01_University_Admission_Merit_List/)
+2. [Simple Calculator](02_Simple_Calculator/)
+3. [Student Grade Calculator](03_Student_Grade_Calculator/)
+4. [Electricity Bill Calculator](04_Electricity_Bill_Calculator/)
+5. [Simple Interest Calculator](05_Simple_Interest_Calculator/)
+6. [Even or Odd Number](06_Even_Odd_Checker/)
+7. [Largest of Three Numbers](07_Largest_Of_Three_Numbers/)
+8. [Multiplication Table](08_Multiplication_Table/)
+9. [Factorial of a Number](09_Factorial_Calculator/)
+10. [Sum of Natural Numbers](10_Sum_Of_Natural_Numbers/)
 
-## Projects
-
-1. [Simple Calculator](01_Simple_Calculator/) — arithmetic operators and if-elif-else
-2. [Student Grade Calculator](02_Student_Grade_Calculator/) — input, arithmetic and if-elif-else
-3. Electricity Bill Calculator — planned
-4. Simple Interest Calculator — planned
-5. Even or Odd Number — planned
-6. Largest of Three Numbers — planned
-7. Multiplication Table — planned
-8. Factorial of a Number — planned
-9. Prime Number Checker — planned
-10. Sum of Natural Numbers — planned
-
-## Project documentation
-Each completed project contains its problem statement, objectives, assumptions, algorithm and flowchart, pseudocode, Python source code, test cases, and conclusion.
-
-## Running a program
-Open the required project folder in VS Code and run its Python file in the terminal. Capture your own output screenshots after running each test case.
+## Documentation in each project
+Problem statement, objectives, assumptions, algorithm with Mermaid flowchart, pseudocode, Python source code, test cases, and conclusion.
 
 ## Syllabus alignment
-Programs are being written using the syllabus topics shared so far: variables, data types, input/output, type conversion, operators, decision-making statements, and loops. Check the remaining syllabus and the official case-study list before final submission.
+The suggested programs use the topics shared so far: variables, data types, input/output, type conversion, arithmetic and relational operators, logical operators, if/elif/else, for loops, while loops, and range(). The admission merit-list project additionally uses lists, tuples, and selection sort. Confirm those topics are permitted in the complete ABL syllabus.
+
+## Important selection note
+The admission merit list comes from the supplied activity-01.txt. The other nine are suggested practice projects aligned to the syllabus topics shared in chat; they have not been verified against the faculty's official 100-case-study list. Confirm they are acceptable before final submission.
+
+## Output screenshots
+Run each program.py in VS Code and save genuine terminal screenshots in that project's output_screenshots/ folder. Expected outputs in test_cases.md are references, not screenshots.
